@@ -1,0 +1,246 @@
+Order ID,Customer Name,Segment,Region,City,Product Category,Product Name,Sales,Quantity,Discount,Date
+CA-2017-193512,Sean O'Dell,Consumer,South,Seattle,Office Supplies,Staples Notebook,511.56,5,0.3,01-01-2020
+CA-2017-129684,Claire Gute,Consumer,South,Seattle,Office Supplies,Apple iPhone 7,240.59,6,0,01-02-2020
+CA-2017-102220,Sean O'Dell,Consumer,East,Houston,Technology,Staples Notebook,676.5,5,0,01-03-2020
+CA-2018-122872,Sara Parker,Home Office,East,Washington,Technology,Hon Deluxe Fabric Chair,511.56,7,0.1,01-04-2020
+CA-2018-185789,Sara Parker,Home Office,South,Phoenix,Furniture,Canon EOS Rebel,68,7,0.3,01-05-2020
+CA-2014-116775,John Lee,Corporate,Central,Seattle,Technology,Fellowes Banks Janalo,511.56,5,0.5,01-06-2020
+CA-2016-120470,Laila Wilson,Consumer,South,Washington,Technology,Bush Somerset Collection,746.15,8,0.5,01-07-2020
+CA-2017-143684,Darrin Van Huff,Home Office,West,Seattle,Office Supplies,Hon Deluxe Fabric Chair,511.56,9,0.22,01-08-2020
+CA-2016-159348,Laila Wilson,Home Office,East,Seattle,Technology,Apple iPhone 7,549.04,8,0.3,01-09-2020
+CA-2017-198094,Evan Reichert,Consumer,East,New York,Technology,Fellowes Banks Janalo,511.56,4,0.5,01-10-2020
+CA-2015-162441,Evan Reichert,Home Office,West,Seattle,Technology,Staples Notebook,335.69,7,0.1,01-11-2020
+CA-2018-141671,Emily Phan,Home Office,Central,Seattle,Technology,Fellowes Banks Janalo,697.2,5,0.1,01-12-2020
+CA-2015-181146,Mike Johnson,Consumer,Central,Seattle,Furniture,Fellowes Banks Janalo,593.21,9,0.2,01-01-2020
+CA-2016-130663,Sean O'Dell,Corporate,South,Houston,Furniture,Hon Deluxe Fabric Chair,78.02,1,0.3,01-02-2020
+CA-2015-115442,Darrin Van Huff,Consumer,East,Phoenix,Furniture,Fellowes Banks Janalo,511.56,6,0.3,01-03-2020
+CA-2015-114528,John Lee,Home Office,West,New York,Office Supplies,Apple iPhone 7,511.56,5,0.22,01-04-2020
+CA-2016-192386,Sara Parker,Consumer,Central,New York,Technology,Fellowes Banks Janalo,966.25,8,0.22,01-05-2020
+CA-2018-131261,Mike Johnson,Home Office,South,Houston,Technology,Staples Notebook,307.14,8,0.1,01-06-2020
+CA-2014-151348,Darrin Van Huff,Home Office,Central,Houston,Office Supplies,Canon EOS Rebel,635.07,4,0,01-07-2020
+CA-2015-113112,Laila Wilson,Home Office,East,New York,Office Supplies,Staples Notebook,298.5,10,0.1,01-08-2020
+CA-2014-129583,Darrin Van Huff,Consumer,East,Seattle,Office Supplies,Apple iPhone 7,511.56,1,0.1,01-09-2020
+CA-2014-198059,Emily Phan,Home Office,West,New York,Technology,Bush Somerset Collection,875.57,5,0.2,01-10-2020
+CA-2018-145827,Sean O'Dell,Home Office,East,Seattle,Office Supplies,Hon Deluxe Fabric Chair,801.75,10,0.1,01-11-2020
+CA-2015-180771,Darrin Van Huff,Corporate,East,New York,Technology,Bush Somerset Collection,77.49,3,0.22,01-12-2020
+CA-2018-188814,Evan Reichert,Home Office,East,Seattle,Furniture,Fellowes Banks Janalo,212.25,4,0.5,01-01-2020
+CA-2016-137782,Mike Johnson,Home Office,East,New York,Technology,Fellowes Banks Janalo,999.28,1,0,01-02-2020
+CA-2017-179805,Mike Johnson,Consumer,East,Los Angeles,Technology,Hon Deluxe Fabric Chair,198.63,9,0.22,01-03-2020
+CA-2015-183074,Sara Parker,Consumer,East,Philadelphia,Furniture,Hon Deluxe Fabric Chair,569.45,9,0.2,01-04-2020
+CA-2015-186529,Mike Johnson,Home Office,East,Houston,Technology,Staples Notebook,882.33,6,0,01-05-2020
+CA-2017-140158,Evan Reichert,Home Office,South,Houston,Furniture,Fellowes Banks Janalo,588.61,4,0.2,01-06-2020
+CA-2014-156358,Mike Johnson,Home Office,East,Phoenix,Furniture,Bush Somerset Collection,59.25,3,0,01-07-2020
+CA-2018-139020,John Lee,Home Office,Central,Philadelphia,Office Supplies,Fellowes Banks Janalo,479.47,5,0.5,01-08-2020
+CA-2018-192937,John Lee,Corporate,South,Seattle,Furniture,Apple iPhone 7,699.08,9,0.2,01-09-2020
+CA-2017-167156,Evan Reichert,Consumer,East,Seattle,Furniture,Canon EOS Rebel,396.3,2,0.2,01-10-2020
+CA-2014-139278,Sean O'Dell,Corporate,East,Houston,Technology,Canon EOS Rebel,380.44,4,0.3,01-11-2020
+CA-2014-192520,Laila Wilson,Home Office,South,Los Angeles,Furniture,Hon Deluxe Fabric Chair,661.79,4,0.1,01-12-2020
+CA-2014-107029,Mike Johnson,Home Office,West,Washington,Furniture,Apple iPhone 7,831.97,6,0,01-01-2020
+CA-2016-110151,Sean O'Dell,Corporate,East,Phoenix,Technology,Fellowes Banks Janalo,595.41,1,0.2,01-02-2020
+CA-2017-134659,Claire Gute,Home Office,East,Los Angeles,Technology,Hon Deluxe Fabric Chair,902.43,1,0.5,01-03-2020
+CA-2017-146892,Evan Reichert,Home Office,East,Seattle,Office Supplies,Bush Somerset Collection,41.44,7,0.2,01-04-2020
+CA-2016-103694,Sean O'Dell,Home Office,East,Seattle,Office Supplies,Staples Notebook,619.86,1,0.22,01-05-2020
+CA-2018-193089,John Lee,Home Office,East,New York,Technology,Fellowes Banks Janalo,276.69,5,0.1,01-06-2020
+CA-2014-177593,Evan Reichert,Home Office,South,Philadelphia,Technology,Staples Notebook,644.22,2,0.3,01-07-2020
+CA-2015-143590,Laila Wilson,Home Office,West,New York,Technology,Fellowes Banks Janalo,877.83,4,0.22,01-08-2020
+CA-2015-100313,Emily Phan,Home Office,East,Philadelphia,Technology,Fellowes Banks Janalo,211.95,4,0.1,01-09-2020
+CA-2018-181147,Sean O'Dell,Home Office,East,Seattle,Technology,Bush Somerset Collection,808.6,2,0,01-10-2020
+CA-2017-149865,Claire Gute,Home Office,East,Houston,Office Supplies,Canon EOS Rebel,538.77,8,0.22,01-11-2020
+CA-2017-199561,Claire Gute,Consumer,East,Philadelphia,Office Supplies,Staples Notebook,480.76,6,0.22,01-12-2020
+CA-2014-143452,Darrin Van Huff,Corporate,South,Los Angeles,Office Supplies,Bush Somerset Collection,829.46,6,0,01-01-2020
+CA-2015-127341,Laila Wilson,Consumer,Central,Philadelphia,Office Supplies,Bush Somerset Collection,229.69,2,0.5,01-02-2020
+CA-2014-108734,Evan Reichert,Corporate,Central,Philadelphia,Technology,Fellowes Banks Janalo,108.85,3,0.1,01-03-2020
+CA-2017-153126,Evan Reichert,Consumer,West,Los Angeles,Office Supplies,Fellowes Banks Janalo,153.11,9,0.2,01-04-2020
+CA-2017-169006,Evan Reichert,Consumer,East,Seattle,Furniture,Canon EOS Rebel,592.73,3,0.22,01-05-2020
+CA-2014-109996,Claire Gute,Corporate,Central,Houston,Technology,Fellowes Banks Janalo,994.35,4,0.22,01-06-2020
+CA-2014-132890,Mike Johnson,Consumer,East,Los Angeles,Technology,Hon Deluxe Fabric Chair,83.3,4,0,01-07-2020
+CA-2015-149005,Mike Johnson,Consumer,West,Seattle,Furniture,Bush Somerset Collection,154.69,3,0.5,01-08-2020
+CA-2016-183194,Darrin Van Huff,Home Office,Central,Seattle,Technology,Fellowes Banks Janalo,86.24,4,0.5,01-09-2020
+CA-2017-166217,Laila Wilson,Home Office,Central,Washington,Technology,Bush Somerset Collection,631.79,3,0.1,01-10-2020
+CA-2014-188665,Emily Phan,Home Office,East,Philadelphia,Furniture,Fellowes Banks Janalo,686.08,9,0.1,01-11-2020
+CA-2017-140798,Emily Phan,Home Office,Central,New York,Technology,Apple iPhone 7,855.74,2,0,01-12-2020
+CA-2017-189218,Darrin Van Huff,Consumer,East,Philadelphia,Technology,Hon Deluxe Fabric Chair,463.48,1,0.5,01-01-2020
+CA-2018-195857,Mike Johnson,Corporate,Central,Houston,Office Supplies,Fellowes Banks Janalo,568.28,9,0.3,01-02-2020
+CA-2018-102075,Laila Wilson,Home Office,South,New York,Technology,Fellowes Banks Janalo,127.43,9,0.1,01-03-2020
+CA-2014-101892,Sean O'Dell,Consumer,East,Seattle,Technology,Fellowes Banks Janalo,428.93,6,0,01-04-2020
+CA-2017-192053,John Lee,Corporate,West,Houston,Technology,Apple iPhone 7,337.97,6,0.3,01-05-2020
+CA-2016-155281,Evan Reichert,Home Office,East,Los Angeles,Furniture,Bush Somerset Collection,119.44,7,0.22,01-06-2020
+CA-2016-105537,Darrin Van Huff,Home Office,Central,Los Angeles,Office Supplies,Staples Notebook,883.84,10,0.3,01-07-2020
+CA-2017-130434,Sean O'Dell,Corporate,South,Los Angeles,Technology,Fellowes Banks Janalo,406,10,0.5,01-08-2020
+CA-2015-118391,Sean O'Dell,Home Office,West,Seattle,Technology,Fellowes Banks Janalo,462.5,5,0,01-09-2020
+CA-2014-176580,Mike Johnson,Consumer,West,Washington,Office Supplies,Hon Deluxe Fabric Chair,275.79,10,0.5,01-10-2020
+CA-2017-109941,Laila Wilson,Consumer,West,Phoenix,Technology,Fellowes Banks Janalo,964.01,3,0.3,01-11-2020
+CA-2015-145678,Claire Gute,Home Office,Central,Washington,Technology,Fellowes Banks Janalo,467.62,5,0.22,01-12-2020
+CA-2015-101008,Darrin Van Huff,Home Office,Central,Washington,Furniture,Canon EOS Rebel,186.4,5,0.1,01-01-2020
+CA-2018-170339,Claire Gute,Corporate,East,Philadelphia,Technology,Apple iPhone 7,15.5,6,0.22,01-02-2020
+CA-2014-170794,Emily Phan,Consumer,West,Philadelphia,Furniture,Fellowes Banks Janalo,116.52,9,0,01-03-2020
+CA-2017-140807,Darrin Van Huff,Consumer,East,Philadelphia,Technology,Staples Notebook,883.3,8,0.1,01-04-2020
+CA-2015-156059,Evan Reichert,Home Office,South,Phoenix,Furniture,Fellowes Banks Janalo,58.27,10,0.5,01-05-2020
+CA-2018-146630,Evan Reichert,Home Office,East,New York,Office Supplies,Staples Notebook,753.06,3,0.5,01-06-2020
+CA-2014-127889,Darrin Van Huff,Corporate,East,Los Angeles,Technology,Apple iPhone 7,575.33,8,0.5,01-07-2020
+CA-2015-153421,Darrin Van Huff,Home Office,South,Houston,Furniture,Fellowes Banks Janalo,434.59,1,0,01-08-2020
+CA-2016-144931,Darrin Van Huff,Consumer,South,Seattle,Technology,Apple iPhone 7,251.98,9,0.5,01-09-2020
+CA-2014-140007,Sara Parker,Home Office,East,Philadelphia,Office Supplies,Canon EOS Rebel,295.53,6,0.22,01-10-2020
+CA-2016-167316,Emily Phan,Home Office,West,Seattle,Technology,Bush Somerset Collection,694.85,6,0.3,01-11-2020
+CA-2018-178783,John Lee,Corporate,East,Phoenix,Technology,Staples Notebook,100.81,9,0.2,01-12-2020
+CA-2018-185057,Claire Gute,Home Office,East,New York,Technology,Hon Deluxe Fabric Chair,753.98,10,0,01-01-2020
+CA-2015-182562,Darrin Van Huff,Home Office,East,Los Angeles,Technology,Staples Notebook,372.17,8,0.2,01-02-2020
+CA-2016-191224,Emily Phan,Corporate,West,Seattle,Furniture,Bush Somerset Collection,665.73,10,0.1,01-03-2020
+CA-2016-185835,Sean O'Dell,Home Office,West,Seattle,Technology,Fellowes Banks Janalo,30.58,3,0,01-04-2020
+CA-2017-154315,Darrin Van Huff,Corporate,South,Houston,Office Supplies,Hon Deluxe Fabric Chair,689.3,10,0.3,01-05-2020
+CA-2014-109974,Darrin Van Huff,Home Office,East,Los Angeles,Technology,Staples Notebook,968.61,6,0.2,01-06-2020
+CA-2015-176834,Sean O'Dell,Consumer,East,Washington,Technology,Canon EOS Rebel,911.6,5,0,01-07-2020
+CA-2017-172848,Emily Phan,Corporate,Central,Philadelphia,Technology,Hon Deluxe Fabric Chair,224.35,9,0.5,01-08-2020
+CA-2018-150786,John Lee,Home Office,East,Houston,Technology,Canon EOS Rebel,584.01,2,0.5,01-09-2020
+CA-2017-166550,John Lee,Home Office,East,Washington,Furniture,Hon Deluxe Fabric Chair,500.77,2,0,01-10-2020
+CA-2017-129647,Evan Reichert,Home Office,South,Los Angeles,Technology,Canon EOS Rebel,649.89,6,0.22,01-11-2020
+CA-2015-139520,Mike Johnson,Corporate,South,Seattle,Furniture,Hon Deluxe Fabric Chair,28.27,6,0,01-12-2020
+CA-2015-178436,Emily Phan,Home Office,Central,Phoenix,Technology,Fellowes Banks Janalo,511.56,10,0,01-01-2020
+CA-2017-169740,Sean O'Dell,Home Office,West,Seattle,Technology,Fellowes Banks Janalo,240.32,4,0.5,01-02-2020
+CA-2017-197125,Emily Phan,Home Office,West,Seattle,Technology,Apple iPhone 7,296.31,10,0,01-03-2020
+CA-2018-194275,Sean O'Dell,Home Office,East,Seattle,Office Supplies,Fellowes Banks Janalo,666.53,10,0.3,01-04-2020
+CA-2018-149844,Emily Phan,Consumer,East,Philadelphia,Technology,Bush Somerset Collection,155.97,7,0.3,01-05-2020
+CA-2016-145564,Sara Parker,Corporate,Central,Phoenix,Technology,Fellowes Banks Janalo,204.62,3,0.2,01-06-2020
+CA-2016-154318,Sean O'Dell,Home Office,Central,New York,Technology,Bush Somerset Collection,276.44,1,0.22,01-07-2020
+CA-2017-162457,Claire Gute,Home Office,East,Philadelphia,Technology,Apple iPhone 7,516.82,10,0.2,01-08-2020
+CA-2017-108498,Laila Wilson,Home Office,East,Los Angeles,Technology,Canon EOS Rebel,270.91,10,0.22,01-09-2020
+CA-2016-122479,John Lee,Home Office,East,Philadelphia,Furniture,Apple iPhone 7,747.22,6,0.2,01-10-2020
+CA-2018-177606,Sara Parker,Corporate,South,Washington,Technology,Canon EOS Rebel,846.6,4,0.5,01-11-2020
+CA-2015-188403,Darrin Van Huff,Home Office,South,Washington,Technology,Staples Notebook,511.56,1,0.3,01-12-2020
+CA-2016-146112,John Lee,Home Office,West,Seattle,Office Supplies,Fellowes Banks Janalo,511.56,1,0.22,01-01-2020
+CA-2015-143402,Darrin Van Huff,Consumer,West,Phoenix,Technology,Fellowes Banks Janalo,823.81,6,0,01-02-2020
+CA-2016-110323,Evan Reichert,Consumer,East,Seattle,Technology,Hon Deluxe Fabric Chair,511.56,5,0.22,01-03-2020
+CA-2015-194249,Darrin Van Huff,Home Office,South,New York,Furniture,Hon Deluxe Fabric Chair,511.56,3,0.2,01-04-2020
+CA-2017-152529,Sean O'Dell,Home Office,East,Seattle,Furniture,Staples Notebook,766.63,1,0,01-05-2020
+CA-2015-147986,Evan Reichert,Home Office,South,Washington,Furniture,Hon Deluxe Fabric Chair,511.56,7,0.3,01-06-2020
+CA-2014-139904,Sara Parker,Consumer,Central,New York,Office Supplies,Bush Somerset Collection,181.77,6,0.5,01-07-2020
+CA-2015-187765,Darrin Van Huff,Corporate,East,Phoenix,Technology,Bush Somerset Collection,511.56,5,0.3,01-08-2020
+CA-2017-174967,Mike Johnson,Corporate,Central,Philadelphia,Technology,Staples Notebook,285.34,5,0.1,01-09-2020
+CA-2014-128874,Laila Wilson,Home Office,East,Philadelphia,Office Supplies,Bush Somerset Collection,341.17,10,0.5,01-10-2020
+CA-2018-165588,Sara Parker,Consumer,East,New York,Technology,Staples Notebook,885.84,2,0,01-11-2020
+CA-2014-138344,Sean O'Dell,Home Office,West,New York,Furniture,Canon EOS Rebel,511.56,5,0.22,01-12-2020
+CA-2017-175738,Sean O'Dell,Corporate,Central,Phoenix,Technology,Apple iPhone 7,712.38,8,0.22,01-01-2020
+CA-2016-145087,Emily Phan,Home Office,South,Los Angeles,Technology,Bush Somerset Collection,955.67,2,0.3,01-02-2020
+CA-2017-102704,Darrin Van Huff,Corporate,West,Los Angeles,Technology,Fellowes Banks Janalo,386.49,1,0.22,01-03-2020
+CA-2016-103876,Darrin Van Huff,Corporate,East,Seattle,Furniture,Staples Notebook,511.56,5,0.2,01-04-2020
+CA-2018-127940,Mike Johnson,Corporate,Central,Los Angeles,Technology,Hon Deluxe Fabric Chair,961.56,3,0.5,01-05-2020
+CA-2018-189192,Emily Phan,Home Office,Central,Phoenix,Furniture,Fellowes Banks Janalo,327.41,3,0.5,01-06-2020
+CA-2016-114160,Sara Parker,Consumer,East,Houston,Furniture,Apple iPhone 7,45.36,1,0.2,01-07-2020
+CA-2014-125653,Sara Parker,Corporate,West,New York,Technology,Staples Notebook,53.91,4,0.5,01-08-2020
+CA-2015-169270,Mike Johnson,Consumer,Central,New York,Technology,Staples Notebook,989.75,10,0.5,01-09-2020
+CA-2014-111380,Evan Reichert,Corporate,South,Philadelphia,Technology,Hon Deluxe Fabric Chair,511.56,9,0.22,01-10-2020
+CA-2014-142883,Evan Reichert,Home Office,East,Philadelphia,Office Supplies,Bush Somerset Collection,551.2,5,0.5,01-11-2020
+CA-2018-123684,Mike Johnson,Consumer,West,New York,Furniture,Fellowes Banks Janalo,144.26,7,0.2,01-12-2020
+CA-2017-114597,Claire Gute,Corporate,East,Los Angeles,Furniture,Fellowes Banks Janalo,511.56,3,0,01-01-2020
+CA-2018-158046,Darrin Van Huff,Home Office,East,Houston,Furniture,Apple iPhone 7,930.1,7,0.22,01-02-2020
+CA-2014-131427,Mike Johnson,Home Office,South,Seattle,Furniture,Fellowes Banks Janalo,138.09,6,0.5,01-03-2020
+CA-2014-105298,Emily Phan,Consumer,Central,Phoenix,Office Supplies,Hon Deluxe Fabric Chair,511.56,7,0.22,01-04-2020
+CA-2015-168734,Claire Gute,Home Office,West,Philadelphia,Furniture,Bush Somerset Collection,809.53,5,0.1,01-05-2020
+CA-2016-162830,Mike Johnson,Home Office,South,Seattle,Technology,Fellowes Banks Janalo,511.56,9,0.1,01-06-2020
+CA-2017-189771,Emily Phan,Home Office,East,Houston,Furniture,Apple iPhone 7,534.91,5,0,01-07-2020
+CA-2014-140727,John Lee,Home Office,South,Phoenix,Technology,Apple iPhone 7,511.56,1,0.5,01-08-2020
+CA-2015-173800,John Lee,Consumer,East,Los Angeles,Technology,Fellowes Banks Janalo,511.56,4,0.22,01-09-2020
+CA-2014-141608,Sean O'Dell,Home Office,Central,Washington,Technology,Fellowes Banks Janalo,297.37,2,0.3,01-10-2020
+CA-2015-133454,John Lee,Consumer,West,Seattle,Technology,Canon EOS Rebel,63.11,3,0.2,01-11-2020
+CA-2017-199643,Mike Johnson,Home Office,West,New York,Technology,Fellowes Banks Janalo,200.07,9,0,01-12-2020
+CA-2014-191296,Laila Wilson,Consumer,South,Seattle,Technology,Apple iPhone 7,762.75,9,0.1,01-01-2020
+CA-2014-154588,Darrin Van Huff,Home Office,West,Seattle,Technology,Apple iPhone 7,374.45,9,0.5,01-02-2020
+CA-2015-137100,Evan Reichert,Corporate,Central,Seattle,Technology,Canon EOS Rebel,632.82,4,0.1,01-03-2020
+CA-2015-116040,Darrin Van Huff,Home Office,Central,Los Angeles,Technology,Canon EOS Rebel,89.59,2,0,01-04-2020
+CA-2014-134661,Darrin Van Huff,Home Office,East,Los Angeles,Furniture,Canon EOS Rebel,511.56,5,0.2,01-05-2020
+CA-2014-116949,Emily Phan,Home Office,West,Washington,Technology,Fellowes Banks Janalo,511.56,3,0.22,01-06-2020
+CA-2018-185770,Sara Parker,Home Office,East,Washington,Technology,Fellowes Banks Janalo,772.58,9,0.3,01-07-2020
+CA-2016-186529,Laila Wilson,Home Office,West,Los Angeles,Furniture,Fellowes Banks Janalo,475.78,1,0.5,01-08-2020
+CA-2016-143158,Sean O'Dell,Home Office,East,Houston,Technology,Hon Deluxe Fabric Chair,809.28,7,0.1,01-09-2020
+CA-2018-175866,John Lee,Home Office,East,Philadelphia,Technology,Canon EOS Rebel,854.05,9,0.5,01-10-2020
+CA-2015-179894,Sara Parker,Home Office,East,Los Angeles,Furniture,Hon Deluxe Fabric Chair,712.72,3,0.22,01-11-2020
+CA-2016-164515,Sean O'Dell,Home Office,East,Seattle,Office Supplies,Fellowes Banks Janalo,190.17,9,0,01-12-2020
+CA-2018-111150,Mike Johnson,Home Office,West,Seattle,Technology,Staples Notebook,479.24,4,0.22,01-01-2020
+CA-2017-195967,Evan Reichert,Home Office,West,Seattle,Technology,Staples Notebook,286.04,1,0,01-02-2020
+CA-2016-111759,Darrin Van Huff,Home Office,East,Seattle,Technology,Staples Notebook,511.56,3,0.1,01-03-2020
+CA-2017-173249,Claire Gute,Consumer,Central,New York,Technology,Hon Deluxe Fabric Chair,340.14,6,0.22,01-04-2020
+CA-2017-152486,Laila Wilson,Corporate,East,New York,Technology,Hon Deluxe Fabric Chair,511.56,7,0.22,01-05-2020
+CA-2014-189036,Emily Phan,Home Office,South,Philadelphia,Technology,Canon EOS Rebel,673.71,5,0,01-06-2020
+CA-2016-168615,Claire Gute,Consumer,Central,Los Angeles,Technology,Hon Deluxe Fabric Chair,981.32,3,0,01-07-2020
+CA-2014-137196,Darrin Van Huff,Corporate,Central,Houston,Furniture,Fellowes Banks Janalo,81.98,6,0.1,01-08-2020
+CA-2015-122729,Emily Phan,Home Office,Central,Washington,Technology,Fellowes Banks Janalo,485.59,8,0.22,01-09-2020
+CA-2014-112658,Sean O'Dell,Consumer,South,Los Angeles,Office Supplies,Apple iPhone 7,171.62,7,0.22,01-10-2020
+CA-2017-182807,Darrin Van Huff,Consumer,East,Houston,Office Supplies,Apple iPhone 7,280.64,4,0.3,01-11-2020
+CA-2015-156724,John Lee,Home Office,East,Washington,Office Supplies,Hon Deluxe Fabric Chair,101.25,2,0.5,01-12-2020
+CA-2016-105373,Emily Phan,Home Office,East,Philadelphia,Technology,Apple iPhone 7,72.11,5,0.3,01-01-2020
+CA-2017-148856,Emily Phan,Home Office,Central,Phoenix,Furniture,Canon EOS Rebel,579.24,8,0.2,01-02-2020
+CA-2016-167276,Sara Parker,Consumer,West,Seattle,Furniture,Fellowes Banks Janalo,23.13,10,0.1,01-03-2020
+CA-2018-118928,Laila Wilson,Corporate,West,Philadelphia,Technology,Apple iPhone 7,885.72,1,0,01-04-2020
+CA-2015-181408,Laila Wilson,Corporate,Central,Philadelphia,Furniture,Apple iPhone 7,174.01,6,0,01-05-2020
+CA-2016-100160,Darrin Van Huff,Corporate,East,Los Angeles,Technology,Canon EOS Rebel,906.46,9,0.3,01-06-2020
+CA-2014-115105,Claire Gute,Corporate,South,Seattle,Technology,Hon Deluxe Fabric Chair,871.47,10,0,01-07-2020
+CA-2015-166175,Sean O'Dell,Home Office,East,Los Angeles,Technology,Staples Notebook,633.34,8,0.2,01-08-2020
+CA-2015-100895,Mike Johnson,Home Office,West,Seattle,Office Supplies,Hon Deluxe Fabric Chair,540.07,6,0.5,01-09-2020
+CA-2014-198117,Sean O'Dell,Home Office,South,Seattle,Technology,Canon EOS Rebel,567.71,9,0.1,01-10-2020
+CA-2018-124184,Laila Wilson,Corporate,East,New York,Furniture,Hon Deluxe Fabric Chair,358.25,6,0.22,01-11-2020
+CA-2016-190139,Emily Phan,Consumer,East,Seattle,Office Supplies,Staples Notebook,511.56,5,0.2,01-12-2020
+CA-2017-132445,Darrin Van Huff,Home Office,East,Seattle,Technology,Fellowes Banks Janalo,558.41,10,0.22,01-01-2020
+CA-2014-106256,Darrin Van Huff,Home Office,South,Philadelphia,Technology,Fellowes Banks Janalo,657.72,9,0.5,01-02-2020
+CA-2018-163852,Sara Parker,Corporate,West,Houston,Furniture,Fellowes Banks Janalo,305.2,10,0.22,01-03-2020
+CA-2015-156930,Darrin Van Huff,Home Office,East,Houston,Furniture,Apple iPhone 7,272.76,8,0.22,01-04-2020
+CA-2017-153903,Claire Gute,Home Office,East,Philadelphia,Furniture,Hon Deluxe Fabric Chair,120.59,3,0.2,01-05-2020
+CA-2017-130405,Claire Gute,Home Office,East,Phoenix,Technology,Fellowes Banks Janalo,900.59,1,0.2,01-06-2020
+CA-2014-147948,Mike Johnson,Home Office,South,Seattle,Office Supplies,Fellowes Banks Janalo,156.4,7,0,01-07-2020
+CA-2016-171457,Mike Johnson,Home Office,South,Seattle,Technology,Bush Somerset Collection,339,1,0,01-08-2020
+CA-2017-171533,Emily Phan,Corporate,West,New York,Technology,Fellowes Banks Janalo,937.34,5,0.22,01-09-2020
+CA-2015-159518,Emily Phan,Home Office,South,Washington,Office Supplies,Bush Somerset Collection,511.56,2,0.5,01-10-2020
+CA-2018-172541,Darrin Van Huff,Consumer,West,Seattle,Office Supplies,Apple iPhone 7,961.81,8,0.1,01-11-2020
+CA-2014-120099,Darrin Van Huff,Consumer,Central,Phoenix,Furniture,Apple iPhone 7,912.58,5,0.1,01-12-2020
+CA-2016-183967,Darrin Van Huff,Corporate,South,Philadelphia,Furniture,Hon Deluxe Fabric Chair,745.03,9,0.5,01-01-2020
+CA-2014-198477,Mike Johnson,Corporate,South,Seattle,Technology,Hon Deluxe Fabric Chair,957.96,10,0.22,01-02-2020
+CA-2018-103714,John Lee,Corporate,South,Seattle,Technology,Bush Somerset Collection,822.11,2,0.5,01-03-2020
+CA-2014-158680,Darrin Van Huff,Consumer,South,Washington,Technology,Canon EOS Rebel,511.56,4,0.5,01-04-2020
+CA-2015-148433,Darrin Van Huff,Home Office,West,Seattle,Technology,Fellowes Banks Janalo,765.42,5,0.1,01-05-2020
+CA-2017-101005,Darrin Van Huff,Home Office,East,Phoenix,Office Supplies,Apple iPhone 7,614.35,1,0.3,01-06-2020
+CA-2014-109029,Darrin Van Huff,Consumer,East,Seattle,Office Supplies,Hon Deluxe Fabric Chair,417.25,8,0.2,01-07-2020
+CA-2014-145846,Claire Gute,Home Office,East,Philadelphia,Technology,Fellowes Banks Janalo,473.56,9,0.1,01-08-2020
+CA-2014-143390,Darrin Van Huff,Corporate,East,Houston,Technology,Staples Notebook,687.12,3,0,01-09-2020
+CA-2014-131342,John Lee,Home Office,Central,New York,Office Supplies,Bush Somerset Collection,376.32,8,0.22,01-10-2020
+CA-2018-162593,John Lee,Corporate,East,Washington,Furniture,Fellowes Banks Janalo,662.38,2,0.5,01-11-2020
+CA-2016-197323,Darrin Van Huff,Home Office,East,Seattle,Technology,Staples Notebook,386.91,5,0.2,01-12-2020
+CA-2018-114890,Sean O'Dell,Home Office,Central,Houston,Furniture,Apple iPhone 7,14.22,5,0.22,01-01-2020
+CA-2018-147308,Emily Phan,Home Office,East,Houston,Office Supplies,Apple iPhone 7,56.37,8,0.1,01-02-2020
+CA-2015-116579,Sara Parker,Home Office,West,New York,Technology,Canon EOS Rebel,716.86,5,0.5,01-03-2020
+CA-2015-109815,Sean O'Dell,Consumer,South,New York,Technology,Canon EOS Rebel,511.56,9,0.22,01-04-2020
+CA-2015-185866,Sara Parker,Home Office,South,Seattle,Office Supplies,Fellowes Banks Janalo,76.83,8,0.2,01-05-2020
+CA-2014-140705,Evan Reichert,Corporate,East,Seattle,Furniture,Bush Somerset Collection,897.55,8,0.2,01-06-2020
+CA-2017-103270,Laila Wilson,Corporate,East,Houston,Furniture,Canon EOS Rebel,22.93,10,0.22,01-07-2020
+CA-2014-165006,Sean O'Dell,Home Office,East,Seattle,Technology,Bush Somerset Collection,186.28,5,0.22,01-08-2020
+CA-2016-169280,Laila Wilson,Consumer,East,Phoenix,Technology,Hon Deluxe Fabric Chair,270.49,1,0.5,01-09-2020
+CA-2016-159112,John Lee,Home Office,East,Houston,Furniture,Staples Notebook,498.53,5,0.22,01-10-2020
+CA-2017-172320,Mike Johnson,Corporate,Central,Seattle,Office Supplies,Apple iPhone 7,712.78,6,0.22,01-11-2020
+CA-2015-191543,Darrin Van Huff,Consumer,East,Philadelphia,Furniture,Canon EOS Rebel,180.59,10,0.3,01-12-2020
+CA-2018-142086,Sean O'Dell,Home Office,East,Seattle,Technology,Fellowes Banks Janalo,850.23,9,0.5,01-01-2020
+CA-2014-176513,Evan Reichert,Home Office,Central,Seattle,Technology,Fellowes Banks Janalo,511.56,1,0.2,01-02-2020
+CA-2017-130804,Laila Wilson,Home Office,Central,Seattle,Technology,Hon Deluxe Fabric Chair,803.17,4,0.1,01-03-2020
+CA-2015-182544,Darrin Van Huff,Consumer,Central,Seattle,Furniture,Hon Deluxe Fabric Chair,299.17,3,0.22,01-04-2020
+CA-2016-195617,John Lee,Consumer,East,Los Angeles,Technology,Staples Notebook,860.09,9,0.3,01-05-2020
+CA-2014-175852,Sara Parker,Consumer,West,Seattle,Technology,Fellowes Banks Janalo,732.1,8,0.2,01-06-2020
+CA-2017-188536,Evan Reichert,Consumer,East,New York,Technology,Fellowes Banks Janalo,491.17,10,0.1,01-07-2020
+CA-2018-121392,Darrin Van Huff,Consumer,West,Seattle,Furniture,Bush Somerset Collection,457.69,1,0,01-08-2020
+CA-2018-170501,Darrin Van Huff,Home Office,South,Los Angeles,Furniture,Staples Notebook,372.52,6,0.2,01-09-2020
+CA-2018-179516,Laila Wilson,Consumer,Central,Seattle,Furniture,Bush Somerset Collection,536.52,2,0.2,01-10-2020
+CA-2016-180632,Mike Johnson,Home Office,South,Houston,Technology,Fellowes Banks Janalo,943.66,6,0.22,01-11-2020
+CA-2017-156195,Darrin Van Huff,Consumer,East,New York,Technology,Fellowes Banks Janalo,505.64,10,0.2,01-12-2020
+CA-2017-190813,Sara Parker,Corporate,South,New York,Technology,Staples Notebook,519.19,8,0.2,01-01-2020
+CA-2015-183955,Evan Reichert,Home Office,South,New York,Furniture,Fellowes Banks Janalo,511.56,2,0.2,01-02-2020
+CA-2016-150686,John Lee,Consumer,South,Seattle,Office Supplies,Apple iPhone 7,845.56,5,0,01-03-2020
+CA-2014-124442,Sean O'Dell,Home Office,East,Houston,Technology,Fellowes Banks Janalo,739.6,6,0.22,01-04-2020
+CA-2017-195807,Darrin Van Huff,Home Office,Central,Washington,Furniture,Bush Somerset Collection,880.25,1,0.3,01-05-2020
+CA-2015-190515,Darrin Van Huff,Home Office,East,Philadelphia,Office Supplies,Apple iPhone 7,418.15,7,0.3,01-06-2020
+CA-2017-120156,Mike Johnson,Home Office,West,Houston,Technology,Hon Deluxe Fabric Chair,303.89,4,0.22,01-07-2020
+CA-2014-197777,Mike Johnson,Corporate,Central,Phoenix,Technology,Staples Notebook,459.47,1,0.3,01-08-2020
+CA-2014-164941,John Lee,Home Office,South,Washington,Furniture,Staples Notebook,98.63,5,0.1,01-09-2020
+CA-2014-129954,Laila Wilson,Home Office,South,Los Angeles,Technology,Canon EOS Rebel,938.15,5,0,01-10-2020
+CA-2018-109130,Sean O'Dell,Home Office,East,New York,Technology,Fellowes Banks Janalo,193.92,5,0.2,01-11-2020
+CA-2017-195643,Darrin Van Huff,Home Office,East,Seattle,Technology,Fellowes Banks Janalo,981.59,5,0.2,01-12-2020
+CA-2017-167364,Laila Wilson,Home Office,East,New York,Office Supplies,Canon EOS Rebel,170.25,7,0.1,01-01-2020
+CA-2017-120093,Mike Johnson,Consumer,East,Seattle,Technology,Staples Notebook,204.1,4,0.2,01-02-2020
+CA-2017-128091,Darrin Van Huff,Consumer,Central,Washington,Technology,Bush Somerset Collection,883.06,5,0.2,01-03-2020
+CA-2015-106588,Sean O'Dell,Home Office,Central,Seattle,Furniture,Bush Somerset Collection,641.73,10,0.2,01-04-2020
+CA-2014-161826,Emily Phan,Home Office,West,Washington,Technology,Hon Deluxe Fabric Chair,91.53,4,0.3,01-05-2020
