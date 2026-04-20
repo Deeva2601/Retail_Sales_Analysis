@@ -4,7 +4,7 @@
 
 This project focuses on analyzing retail sales data to extract meaningful insights and visualize them using Power BI. The workflow includes data cleaning, preprocessing, analysis, and dashboard creation using Python and Power BI.
 
----
+--- 
 
 ## 🧹 Module 1: Data Cleaning & Preprocessing (Python)
 
